@@ -7,7 +7,7 @@
 
 Ce projet est une introduction au HTML, CSS et Javascript durant lequel vous allez pouvoir manipuler différents documents.
 
-Pour commencer, vous allez simplement cliquer sur le bouton ["**Clone or download > Download ZIP**"](METTRE LIEN ICI !!).
+Pour commencer, vous allez simplement cliquer sur le bouton ["**Clone or download > Download ZIP**"](https://github.com/eloji9/techbreak-learn-html-css-javascript/tree/master).
 
 Après avoir téléchargé le dossier et l'avoir décompressé, vous allez y trouver 4 documents sur lesquels nous allons intervenir en 4 étapes :
 - **étape 1**: HTML et CSS.
@@ -21,7 +21,7 @@ Vous allez avoir besoin d'une éditeur de texte tel que [Visual Studio Code](htt
 ![Visual Studio Code](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
 
 
-<!-- Vous trouverez la solution dans la branche `solution` en cliquant sur  ["**Branch: master > solution**"](LINK FOR THE BRANCH SOLUTION). Mais avant de faire ça, commençons par coder 😃 !  -->
+<!-- Vous trouverez la solution dans la branche `solution` en cliquant sur  ["**Branch: master > solution**"](LINK FOR THE BRANCH SOLUTION). Mais avant de faire ça, commençons par coder 😃 ! -->
 
 
 ## Instructions
