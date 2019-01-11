@@ -4,13 +4,12 @@ if (!page) {
   page = "1";
 }
 
-// ETAPE 3
-// Check the time to know if you can contact the person or not.
-var hours = 12;
+var hours = new Date().getHours();
+var minutes = new Date().getMinutes();
 if (hours >=9 && hours < 18) {
-  $('.working-hours').text("Yes, it's " + hours + ":00, you can still contact you next employee!")
+  $('.working-hours').text("Yes, it's " + hours + ":" + minutes + ", you can still contact you next employee!")
 } else {
-  $('.working-hours').text("No, it's " + hours + ":00, you can't contact anyone outside of working hours but you can go grab a beer!")
+  $('.working-hours').text("No, it's " + hours + ":" + minutes + ", you can't contact anyone outside of working hours but you can go grab a beer!")
 }
 
 // Call the API "GET https://randomuser.me/api/"
